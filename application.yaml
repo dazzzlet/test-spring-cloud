@@ -1,0 +1,9 @@
+application:
+    name: spectrum
+
+---
+
+spring:
+    profiles: qa
+
+conbo: mauxanh
